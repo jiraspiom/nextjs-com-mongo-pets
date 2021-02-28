@@ -2,6 +2,8 @@ import Link from 'next/link'
 import dbConnect from '../utils/dbConnect'
 import Pet from '../models/Pet'
 
+import { useSession } from 'next-auth/client'
+
 const Index = ({ pets }) => (
   <>
     {/* Create a card for each pet */}
@@ -50,6 +52,7 @@ const Index = ({ pets }) => (
 /* Retrieves pet(s) data from mongodb database */
 export async function getServerSideProps() {
   await dbConnect()
+  const [ session, loading ] = useSession()
 
   /* find all the data in our database */
   const result = await Pet.find({})
