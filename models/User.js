@@ -1,7 +1,7 @@
-import mongoose from 'mongoose'
+import mongoose from 'mongoose' // Erase if already required
 
 // Declare the Schema of the Mongo model
-const CartaoSchema = new mongoose.Schema({
+var userSchema = new mongoose.Schema({
     name:{
         type:String,
         required:true,
@@ -13,16 +13,13 @@ const CartaoSchema = new mongoose.Schema({
         required:true,
         unique:true,
     },
-    mobile:{
-        type:String,
-        required:true,
-        unique:true,
-    },
     password:{
         type:String,
+        min: 6,
+        max: 12,
         required:true,
     },
 });
 
 //Export the model
-export default mongoose.models.Cartao || mongoose.model('Cartao', CartaoSchema)
+export default mongoose.models.User || mongoose.model('User', PetSchema)
