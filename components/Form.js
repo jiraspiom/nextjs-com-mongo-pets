@@ -106,7 +106,7 @@ const Form = ({ formId, petForm, forNewPet = true }) => {
   return (
     <>
       <form id={formId} onSubmit={handleSubmit}>
-        <label htmlFor="name">Name</label>
+        <label htmlFor="name">Nome</label>
         <input
           type="text"
           maxLength="20"
@@ -116,7 +116,7 @@ const Form = ({ formId, petForm, forNewPet = true }) => {
           required
         />
 
-        <label htmlFor="owner_name">Owner</label>
+        <label htmlFor="owner_name">Proprietario</label>
         <input
           type="text"
           maxLength="20"
@@ -126,7 +126,7 @@ const Form = ({ formId, petForm, forNewPet = true }) => {
           required
         />
 
-        <label htmlFor="species">Species</label>
+        <label htmlFor="species">Especie</label>
         <input
           type="text"
           maxLength="30"
@@ -136,7 +136,7 @@ const Form = ({ formId, petForm, forNewPet = true }) => {
           required
         />
 
-        <label htmlFor="age">Age</label>
+        <label htmlFor="age">Idade</label>
         <input
           type="number"
           name="age"
@@ -144,7 +144,7 @@ const Form = ({ formId, petForm, forNewPet = true }) => {
           onChange={handleChange}
         />
 
-        <label htmlFor="poddy_trained">Potty Trained</label>
+        <label htmlFor="poddy_trained">Sabe usar privada sozinho</label>
         <input
           type="checkbox"
           name="poddy_trained"
@@ -152,7 +152,7 @@ const Form = ({ formId, petForm, forNewPet = true }) => {
           onChange={handleChange}
         />
 
-        <label htmlFor="diet">Diet</label>
+        <label htmlFor="diet">Dieta</label>
         <textarea
           name="diet"
           maxLength="60"
@@ -169,7 +169,7 @@ const Form = ({ formId, petForm, forNewPet = true }) => {
           required
         />
 
-        <label htmlFor="likes">Likes</label>
+        <label htmlFor="likes">Gosta</label>
         <textarea
           name="likes"
           maxLength="60"
@@ -177,7 +177,7 @@ const Form = ({ formId, petForm, forNewPet = true }) => {
           onChange={handleChange}
         />
 
-        <label htmlFor="dislikes">Dislikes</label>
+        <label htmlFor="dislikes">Não gosta</label>
         <textarea
           name="dislikes"
           maxLength="60"

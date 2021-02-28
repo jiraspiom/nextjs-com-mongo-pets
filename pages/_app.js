@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps }) {
             <a>Home</a>
           </Link>
           <Link href="/new">
-            <a>Add Pet</a>
+            <a>Adicionar novo Pet</a>
           </Link>
         </div>
 
