@@ -4,7 +4,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "debug": "NODE_OPTIONS='--inspect' next"
   },
   "dependencies": {
     "mongoose": "^5.9.13",

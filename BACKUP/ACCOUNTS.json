@@ -1,0 +1,114 @@
+[
+    {
+        "ID": 17,
+        "NAME": "PoupInter",
+        "INITIAL_BALANCE": 0.0,
+        "TYPE": "Term",
+        "CURRENCY_SYMBOL": "BRL"
+    },
+    {
+        "ID": 15,
+        "NAME": "Debito-Inter",
+        "INITIAL_BALANCE": 0.0,
+        "TYPE": "Checking",
+        "CURRENCY_SYMBOL": "BRL"
+    },
+    {
+        "ID": 14,
+        "NAME": "PoupancaNu",
+        "INITIAL_BALANCE": 0.0,
+        "TYPE": "Term",
+        "CURRENCY_SYMBOL": "BRL"
+    },
+    {
+        "ID": 12,
+        "NAME": "X-PoupancaSicoob",
+        "INITIAL_BALANCE": 0.0,
+        "TYPE": "Term",
+        "CURRENCY_SYMBOL": "BRL"
+    },
+    {
+        "ID": 13,
+        "NAME": "Debito-NU",
+        "INITIAL_BALANCE": 0.0,
+        "TYPE": "Checking",
+        "CURRENCY_SYMBOL": "BRL"
+    },
+    {
+        "ID": 11,
+        "NAME": "Debito-Itau",
+        "INITIAL_BALANCE": 0.0,
+        "TYPE": "Checking",
+        "CURRENCY_SYMBOL": "BRL"
+    },
+    {
+        "ID": 10,
+        "NAME": "VAlimentacao",
+        "INITIAL_BALANCE": 0.0,
+        "TYPE": "Cash",
+        "CURRENCY_SYMBOL": "BRL"
+    },
+    {
+        "ID": 9,
+        "NAME": "BBrasil",
+        "INITIAL_BALANCE": 0.0,
+        "TYPE": "Checking",
+        "CURRENCY_SYMBOL": "BRL"
+    },
+    {
+        "ID": 7,
+        "NAME": "X-Debito-Sicoob",
+        "INITIAL_BALANCE": 0.0,
+        "TYPE": "Checking",
+        "CURRENCY_SYMBOL": "BRL"
+    },
+    {
+        "ID": 8,
+        "NAME": "Card NU (Master)",
+        "INITIAL_BALANCE": 3000.0,
+        "TYPE": "Credit Card",
+        "CURRENCY_SYMBOL": "BRL"
+    },
+    {
+        "ID": 6,
+        "NAME": "X-Card Santander (master)",
+        "INITIAL_BALANCE": 4000.0,
+        "TYPE": "Credit Card",
+        "CURRENCY_SYMBOL": "BRL"
+    },
+    {
+        "ID": 5,
+        "NAME": "X-Poupanca ITAU",
+        "INITIAL_BALANCE": 0.0,
+        "TYPE": "Term",
+        "CURRENCY_SYMBOL": "BRL"
+    },
+    {
+        "ID": 1,
+        "NAME": "X-Card ITAU (visa)",
+        "INITIAL_BALANCE": 0.0,
+        "TYPE": "Credit Card",
+        "CURRENCY_SYMBOL": "BRL"
+    },
+    {
+        "ID": 3,
+        "NAME": "Carteira",
+        "INITIAL_BALANCE": 2.0,
+        "TYPE": "Cash",
+        "CURRENCY_SYMBOL": "BRL"
+    },
+    {
+        "ID": 2,
+        "NAME": "X-Card ITAU (master)",
+        "INITIAL_BALANCE": 1500.0,
+        "TYPE": "Credit Card",
+        "CURRENCY_SYMBOL": "BRL"
+    },
+    {
+        "ID": 4,
+        "NAME": "X-ITAU",
+        "INITIAL_BALANCE": 2790.25,
+        "TYPE": "Checking",
+        "CURRENCY_SYMBOL": "BRL"
+    }
+]

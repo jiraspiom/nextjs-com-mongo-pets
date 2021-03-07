@@ -1,0 +1,2966 @@
+[
+    {
+        "ID": 4,
+        "NAME": "Alef",
+        "CATEGORY_ID": 14,
+        "SUBCATEGORY_ID": 88
+    },
+    {
+        "ID": 5,
+        "NAME": "Carrefour",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 6,
+        "NAME": "Itau/Taxa Max Conta",
+        "CATEGORY_ID": 13,
+        "SUBCATEGORY_ID": 41
+    },
+    {
+        "ID": 7,
+        "NAME": "Globaltec",
+        "CATEGORY_ID": 13,
+        "SUBCATEGORY_ID": 39
+    },
+    {
+        "ID": 8,
+        "NAME": "Oi",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 67
+    },
+    {
+        "ID": 9,
+        "NAME": "Saneago",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 69
+    },
+    {
+        "ID": 10,
+        "NAME": "Jose/ Devmidia",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 1,
+        "NAME": "naura",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 92
+    },
+    {
+        "ID": 11,
+        "NAME": "Itaú",
+        "CATEGORY_ID": 21,
+        "SUBCATEGORY_ID": 81
+    },
+    {
+        "ID": 237,
+        "NAME": "elshandai 1.99",
+        "CATEGORY_ID": 5,
+        "SUBCATEGORY_ID": 54
+    },
+    {
+        "ID": 12,
+        "NAME": "Celg",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 61
+    },
+    {
+        "ID": 13,
+        "NAME": "Pratex",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 14,
+        "NAME": "Balanciar",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 15,
+        "NAME": "Borracharia Sesc",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 96
+    },
+    {
+        "ID": 16,
+        "NAME": "Moinho",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 17,
+        "NAME": "Restaurante Bistro",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 234,
+        "NAME": "vivo",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 67
+    },
+    {
+        "ID": 18,
+        "NAME": "Restaurante Dr Maria",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 19,
+        "NAME": "Restaurante Baioloart",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 20,
+        "NAME": "Posto Carrefour",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 21,
+        "NAME": "Submarino",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 92
+    },
+    {
+        "ID": 22,
+        "NAME": "Restaurante Ipanema",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 23,
+        "NAME": "Faculdade FASAM",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 24,
+        "NAME": "Farmacia Popular",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 76
+    },
+    {
+        "ID": 25,
+        "NAME": "Posto Ale",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 26,
+        "NAME": "Restaurante novo Mundo",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 27,
+        "NAME": "Rocha Bar Restaurante",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 28,
+        "NAME": "Restaurante vacas",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 29,
+        "NAME": "Motopeca",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 96
+    },
+    {
+        "ID": 30,
+        "NAME": "Bretas",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 31,
+        "NAME": "Posto Pio xii",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 32,
+        "NAME": "Drogaria Frauda.",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 23
+    },
+    {
+        "ID": 33,
+        "NAME": "Restaurante Rancho",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 34,
+        "NAME": "Claro",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 67
+    },
+    {
+        "ID": 35,
+        "NAME": "Borracharia Rio Verde",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 36,
+        "NAME": "Supermercado Garotao",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 37,
+        "NAME": "Goiania iptu",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 64
+    },
+    {
+        "ID": 38,
+        "NAME": "Posto Ipamema",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 40,
+        "NAME": "Subway",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 41,
+        "NAME": "Restaurante churrascos",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 42,
+        "NAME": "Posto Perim Loja Moto",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 43,
+        "NAME": "Odont Flex",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 44,
+        "NAME": "Loja Do Didi",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 45,
+        "NAME": "Leroy Merlin",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 66
+    },
+    {
+        "ID": 46,
+        "NAME": "Restaurante Turm",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 47,
+        "NAME": "Ting Express",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 48,
+        "NAME": "Drogaria Lider",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 76
+    },
+    {
+        "ID": 49,
+        "NAME": "Restaurante Barriga Cheia",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 50,
+        "NAME": "Cinemark",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 50
+    },
+    {
+        "ID": 51,
+        "NAME": "Moto Peca Perim",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 96
+    },
+    {
+        "ID": 52,
+        "NAME": "Uau Havaiana",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 53,
+        "NAME": "Griletto",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 54,
+        "NAME": "Marisa",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 55,
+        "NAME": "Restaurante Do Gaucho",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 56,
+        "NAME": "Pizzaria Rotatoria",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 44
+    },
+    {
+        "ID": 57,
+        "NAME": "Empório Paes",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 58,
+        "NAME": "Posto Rio Verde",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 59,
+        "NAME": "R D Moto",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 96
+    },
+    {
+        "ID": 60,
+        "NAME": "Peg Pag K",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 61,
+        "NAME": "Detroid",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 43
+    },
+    {
+        "ID": 62,
+        "NAME": "Frango Assado",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 63,
+        "NAME": "IOF",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 92
+    },
+    {
+        "ID": 64,
+        "NAME": "Atacadão",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 65,
+        "NAME": "Lobo Confec",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 66,
+        "NAME": "Shandaw Confec",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 67,
+        "NAME": "Restaurante E Pizzaeia Ipanema",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 89,
+        "NAME": "Caixa Economica",
+        "CATEGORY_ID": 13,
+        "SUBCATEGORY_ID": 40
+    },
+    {
+        "ID": 68,
+        "NAME": "Santa Marta",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 69,
+        "NAME": "Odonto Imagem",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 70,
+        "NAME": "Lojas Americanas",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 43
+    },
+    {
+        "ID": 71,
+        "NAME": "Gemeos Moto",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 96
+    },
+    {
+        "ID": 72,
+        "NAME": "Supermercado Kim Kim",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 73,
+        "NAME": "Golden Boliche",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 74,
+        "NAME": "Mac Donald",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 75,
+        "NAME": "Mc Donald",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 76,
+        "NAME": "Extra",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 92
+    },
+    {
+        "ID": 77,
+        "NAME": "Rodrigo Psp 320",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 78,
+        "NAME": "Pro Brazilian",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 79,
+        "NAME": "Supermercado Antigo Jurere",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 80,
+        "NAME": "Casas Bahia",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 81,
+        "NAME": "Super Lider",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 82,
+        "NAME": "Andreinha Oliveira",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 83,
+        "NAME": "Degrauls",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 84,
+        "NAME": "Detran",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 98
+    },
+    {
+        "ID": 85,
+        "NAME": "Happy Brinquedos",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 86,
+        "NAME": "Primeteck",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 92
+    },
+    {
+        "ID": 87,
+        "NAME": "Posto Ipiranga",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 88,
+        "NAME": "Supermercado Rio Verde",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 2,
+        "NAME": "osto",
+        "CATEGORY_ID": 23,
+        "SUBCATEGORY_ID": 82
+    },
+    {
+        "ID": 90,
+        "NAME": "Frago Assado",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 91,
+        "NAME": "Casa de Carne",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 43
+    },
+    {
+        "ID": 92,
+        "NAME": "Supermercado Jerusalen",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 93,
+        "NAME": "Panificadora Indo Globaltec",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 94,
+        "NAME": "Hi Happy",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 48
+    },
+    {
+        "ID": 95,
+        "NAME": "Newsinside",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 96,
+        "NAME": "Viacao Novo Horizonte",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 97,
+        "NAME": "Ferraguista Mangalo",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 22
+    },
+    {
+        "ID": 98,
+        "NAME": "Livraria Saraiva",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 48
+    },
+    {
+        "ID": 99,
+        "NAME": "Cacal Show",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 43
+    },
+    {
+        "ID": 100,
+        "NAME": "Drogaria Mari",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 101,
+        "NAME": "Supermercado Casa Vito",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 102,
+        "NAME": "Califórnia Paes praça finso",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 44
+    },
+    {
+        "ID": 103,
+        "NAME": "Espaco 10",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 104,
+        "NAME": "Circo Chonos",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 105,
+        "NAME": "Supermercado Detran",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 106,
+        "NAME": "Supermercado Maria Lourenco",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 107,
+        "NAME": "Shopping Do cosmetico",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 108,
+        "NAME": "Exelencia Automotivo",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 109,
+        "NAME": "Posto Jk",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 110,
+        "NAME": "Posto Rosario",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 111,
+        "NAME": "Posto Correntina",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 112,
+        "NAME": "Loja Shooping Mangalo",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 113,
+        "NAME": "Posto Santo Antonio",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 114,
+        "NAME": "Netflix",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 50
+    },
+    {
+        "ID": 115,
+        "NAME": "Gilmar",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 116,
+        "NAME": "Supermercado gogo",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 117,
+        "NAME": "Posto Recanto Baixada",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 118,
+        "NAME": "Sorveteria Mangalo",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 43
+    },
+    {
+        "ID": 119,
+        "NAME": "Francisca 199",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 48
+    },
+    {
+        "ID": 120,
+        "NAME": "Araujo Gas",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 63
+    },
+    {
+        "ID": 121,
+        "NAME": "Real Utilidade Pio Xii",
+        "CATEGORY_ID": 5,
+        "SUBCATEGORY_ID": 54
+    },
+    {
+        "ID": 122,
+        "NAME": "Agrauto Mecanica Luiz",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 123,
+        "NAME": "Posto Pq Cascavel",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 124,
+        "NAME": "Emporio Variedade",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 125,
+        "NAME": "Luana Lanay",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 126,
+        "NAME": "Santander",
+        "CATEGORY_ID": 21,
+        "SUBCATEGORY_ID": 84
+    },
+    {
+        "ID": 127,
+        "NAME": "Ponto Frio",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 60
+    },
+    {
+        "ID": 128,
+        "NAME": "Lojas De Aviameto",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 89
+    },
+    {
+        "ID": 129,
+        "NAME": "Acougue Praca Perin",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 130,
+        "NAME": "Tiago cabrito",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 131,
+        "NAME": "Revistaria",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 51
+    },
+    {
+        "ID": 132,
+        "NAME": "Sao Jorge",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 66
+    },
+    {
+        "ID": 133,
+        "NAME": "C&a",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 99
+    },
+    {
+        "ID": 134,
+        "NAME": "Jeovan Maquinas",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 135,
+        "NAME": "Comercial Fernandes",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 66
+    },
+    {
+        "ID": 136,
+        "NAME": "Ze Do Sitpass",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 314,
+        "NAME": "padaria shangai",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 44
+    },
+    {
+        "ID": 137,
+        "NAME": "Araguaia Shopping",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 15
+    },
+    {
+        "ID": 138,
+        "NAME": "Bretas/ Cinema",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 139,
+        "NAME": "Meumel",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 140,
+        "NAME": "Klips Jeans",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 141,
+        "NAME": "Complemento",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 142,
+        "NAME": "Posto Balneario",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 143,
+        "NAME": "Estação goiânia",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 99
+    },
+    {
+        "ID": 144,
+        "NAME": "Regiani",
+        "CATEGORY_ID": 19,
+        "SUBCATEGORY_ID": 71
+    },
+    {
+        "ID": 145,
+        "NAME": "Euler",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 146,
+        "NAME": "Moto Shop",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 96
+    },
+    {
+        "ID": 147,
+        "NAME": "Posto 68",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 148,
+        "NAME": "Moto Peca",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 96
+    },
+    {
+        "ID": 149,
+        "NAME": "Jurerere",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 150,
+        "NAME": "Japones Buriti",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 151,
+        "NAME": "Pouso Auto",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 152,
+        "NAME": "Drograria Balneario",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 76
+    },
+    {
+        "ID": 153,
+        "NAME": "Burger King",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 154,
+        "NAME": "Ranchos 30",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 155,
+        "NAME": "Ferraguista Jurere",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 43
+    },
+    {
+        "ID": 156,
+        "NAME": "Payol",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 157,
+        "NAME": "Mercearia Perto Decasa",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 158,
+        "NAME": "Moto Katana",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 96
+    },
+    {
+        "ID": 159,
+        "NAME": "Restaurante Sesc",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 160,
+        "NAME": "Hudson",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 161,
+        "NAME": "Pain",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 162,
+        "NAME": "Posto Finsocial",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 163,
+        "NAME": "Paeint Boll",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 164,
+        "NAME": "Mae Rafaela",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 165,
+        "NAME": "Barbearia Ancelmo",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 166,
+        "NAME": "Supermercado Rotatoria",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 167,
+        "NAME": "Pizza 10",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 168,
+        "NAME": "Supermercado Tavares",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 169,
+        "NAME": "Sanduixeria",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 170,
+        "NAME": "Borracharia Paraíba",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 96
+    },
+    {
+        "ID": 171,
+        "NAME": "Mercearia Rb3",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 172,
+        "NAME": "Thiago Moto Peças",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 96
+    },
+    {
+        "ID": 173,
+        "NAME": "Jantinha da rotatoria",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 174,
+        "NAME": "Concerto Morto canaa",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 96
+    },
+    {
+        "ID": 175,
+        "NAME": "Borracharia Casa",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 176,
+        "NAME": "Vendedor Carref",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 177,
+        "NAME": "Borracharia Detran",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 96
+    },
+    {
+        "ID": 424,
+        "NAME": "Verificar",
+        "CATEGORY_ID": 17,
+        "SUBCATEGORY_ID": 58
+    },
+    {
+        "ID": 218,
+        "NAME": "Aldinaura",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 43
+    },
+    {
+        "ID": 178,
+        "NAME": "MARCIO LACERDA",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 179,
+        "NAME": "Gerson cabelereiro",
+        "CATEGORY_ID": 16,
+        "SUBCATEGORY_ID": 56
+    },
+    {
+        "ID": 180,
+        "NAME": "Correios Alfandega",
+        "CATEGORY_ID": 10,
+        "SUBCATEGORY_ID": 38
+    },
+    {
+        "ID": 181,
+        "NAME": "Feira Balneario",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 43
+    },
+    {
+        "ID": 182,
+        "NAME": "Alana Lobaltec",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 183,
+        "NAME": "Manutenção De Pc",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 184,
+        "NAME": "Antonio Borges Pimenta",
+        "CATEGORY_ID": 19,
+        "SUBCATEGORY_ID": 71
+    },
+    {
+        "ID": 185,
+        "NAME": "Old Games",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 186,
+        "NAME": "Novato Globaltec",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 187,
+        "NAME": "Mutirama",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 188,
+        "NAME": "Limpa Fossa",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 189,
+        "NAME": "Pedreiro",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 66
+    },
+    {
+        "ID": 190,
+        "NAME": "Tv Arouga",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 191,
+        "NAME": "Ciclolab Laboratorio Medico",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 27
+    },
+    {
+        "ID": 192,
+        "NAME": "Vendinha Catolandia",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 193,
+        "NAME": "Lavajato Praca Feira",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 194,
+        "NAME": "Loja Roupa Bernado Saiao",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 195,
+        "NAME": "Bolsa Bernado Saiao",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 196,
+        "NAME": "Posto Tabocão vii neropolis",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 197,
+        "NAME": "Feira Glesia",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 198,
+        "NAME": "Pamonharia da Vovo",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 199,
+        "NAME": "Marcelo Ds 50",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 200,
+        "NAME": "Loja Game Mangalo",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 201,
+        "NAME": "Frutaria Genesio Lima Brito",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 202,
+        "NAME": "Igor Moto X Assistencia",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 203,
+        "NAME": "Walmart Comercio",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 204,
+        "NAME": "Amazon.com",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 60
+    },
+    {
+        "ID": 205,
+        "NAME": "Mercado Livre",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 60
+    },
+    {
+        "ID": 206,
+        "NAME": "Aliexpress",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 48
+    },
+    {
+        "ID": 207,
+        "NAME": "Centauro",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 99
+    },
+    {
+        "ID": 208,
+        "NAME": "Savana",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 209,
+        "NAME": "Microsoft",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 48
+    },
+    {
+        "ID": 210,
+        "NAME": "Super Store",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 211,
+        "NAME": "Dn Clinica Odontologica",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 213,
+        "NAME": "Pneu Sto",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 214,
+        "NAME": "Leandro Martins De Sou",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 215,
+        "NAME": "Ricardo Eletro",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 60
+    },
+    {
+        "ID": 216,
+        "NAME": "Steam",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 217,
+        "NAME": "Coobrastur",
+        "CATEGORY_ID": 9,
+        "SUBCATEGORY_ID": 32
+    },
+    {
+        "ID": 266,
+        "NAME": "natal centro automotivo",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 219,
+        "NAME": "Bobs",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 220,
+        "NAME": "Brasil cacal",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 43
+    },
+    {
+        "ID": 221,
+        "NAME": "Supermercado Braga",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 20
+    },
+    {
+        "ID": 222,
+        "NAME": "yezica photography",
+        "CATEGORY_ID": 3,
+        "SUBCATEGORY_ID": 12
+    },
+    {
+        "ID": 223,
+        "NAME": "ebanx",
+        "CATEGORY_ID": 21,
+        "SUBCATEGORY_ID": 81
+    },
+    {
+        "ID": 224,
+        "NAME": "Di Carrei",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 20
+    },
+    {
+        "ID": 225,
+        "NAME": "Rubens pi",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 20
+    },
+    {
+        "ID": 226,
+        "NAME": "Verena modas",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 20
+    },
+    {
+        "ID": 227,
+        "NAME": "Imperio",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 20
+    },
+    {
+        "ID": 228,
+        "NAME": "farmacia vita",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 76
+    },
+    {
+        "ID": 229,
+        "NAME": "marcelo primo",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 49
+    },
+    {
+        "ID": 230,
+        "NAME": "restaurante gordo",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 231,
+        "NAME": "diego do queijo",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 232,
+        "NAME": "posto terminal bandeiras",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 233,
+        "NAME": "Ricardo Moto",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 235,
+        "NAME": "Niltonei ferreira Normano",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 21
+    },
+    {
+        "ID": 236,
+        "NAME": "escola meire",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 49
+    },
+    {
+        "ID": 238,
+        "NAME": "posto makro",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 239,
+        "NAME": "moveis melo",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 21
+    },
+    {
+        "ID": 240,
+        "NAME": "doacao",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 23
+    },
+    {
+        "ID": 241,
+        "NAME": "dentista eliane",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 24
+    },
+    {
+        "ID": 242,
+        "NAME": "vidraceiro mangalo",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 21
+    },
+    {
+        "ID": 243,
+        "NAME": "sw alimentos",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 244,
+        "NAME": "Deville Joia",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 245,
+        "NAME": "Saraiva",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 51
+    },
+    {
+        "ID": 246,
+        "NAME": "Google",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 48
+    },
+    {
+        "ID": 248,
+        "NAME": "Drogaria Vitta",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 76
+    },
+    {
+        "ID": 249,
+        "NAME": "Shopping mangalo",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 66
+    },
+    {
+        "ID": 250,
+        "NAME": "Sicoob",
+        "CATEGORY_ID": 21,
+        "SUBCATEGORY_ID": 81
+    },
+    {
+        "ID": 251,
+        "NAME": "eZtrade",
+        "CATEGORY_ID": 17,
+        "SUBCATEGORY_ID": 58
+    },
+    {
+        "ID": 252,
+        "NAME": "panificadora more goiana",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 44
+    },
+    {
+        "ID": 253,
+        "NAME": "giraffas",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 254,
+        "NAME": "magic games imperium",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 52
+    },
+    {
+        "ID": 255,
+        "NAME": "Decolar passagens",
+        "CATEGORY_ID": 19,
+        "SUBCATEGORY_ID": 71
+    },
+    {
+        "ID": 256,
+        "NAME": "Rei dos farois",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 257,
+        "NAME": "Supermercado hiper bom",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 258,
+        "NAME": "cinenopolis",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 50
+    },
+    {
+        "ID": 259,
+        "NAME": "tatiane nevis de goiania",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 48
+    },
+    {
+        "ID": 260,
+        "NAME": "Brasil Pais Lixo",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 261,
+        "NAME": "Dx",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 92
+    },
+    {
+        "ID": 262,
+        "NAME": "Uber",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 95
+    },
+    {
+        "ID": 264,
+        "NAME": "Arlene Gomes Pinheiro Ap",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 21
+    },
+    {
+        "ID": 265,
+        "NAME": "Colchoes Ultraflex",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 21
+    },
+    {
+        "ID": 267,
+        "NAME": "easynivest",
+        "CATEGORY_ID": 17,
+        "SUBCATEGORY_ID": 58
+    },
+    {
+        "ID": 269,
+        "NAME": "JEOVAH JIREH LTDA ",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 89
+    },
+    {
+        "ID": 270,
+        "NAME": "CLAUDELINO DE SOU",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 271,
+        "NAME": "aline aviamento",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 89
+    },
+    {
+        "ID": 272,
+        "NAME": "FRANCISCA FERNAND",
+        "CATEGORY_ID": 5,
+        "SUBCATEGORY_ID": 54
+    },
+    {
+        "ID": 273,
+        "NAME": "CRISTAL COSMETICO",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 274,
+        "NAME": "maquina costura",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 89
+    },
+    {
+        "ID": 263,
+        "NAME": "Spotify",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 48
+    },
+    {
+        "ID": 275,
+        "NAME": "Paulo rogerio",
+        "CATEGORY_ID": 19,
+        "SUBCATEGORY_ID": 70
+    },
+    {
+        "ID": 276,
+        "NAME": "elsio cabral de m",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 277,
+        "NAME": "analu",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 89
+    },
+    {
+        "ID": 278,
+        "NAME": "restaurante troppo",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 279,
+        "NAME": "submarino amarelo",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 280,
+        "NAME": "Dafiti com",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 20
+    },
+    {
+        "ID": 281,
+        "NAME": "Clinica merica d goiania",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 23
+    },
+    {
+        "ID": 282,
+        "NAME": "Simbora restaurante",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 283,
+        "NAME": "jaicar autopeca",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 284,
+        "NAME": "posto Petrobras",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 285,
+        "NAME": "giga componentes",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 92
+    },
+    {
+        "ID": 286,
+        "NAME": "Supermercado BRJ",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 287,
+        "NAME": "Vivenda do camarão",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 289,
+        "NAME": "drograria sol",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 76
+    },
+    {
+        "ID": 290,
+        "NAME": "Portal aviamento",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 89
+    },
+    {
+        "ID": 291,
+        "NAME": "Nova ferragista",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 22
+    },
+    {
+        "ID": 292,
+        "NAME": "Banco Brasil",
+        "CATEGORY_ID": 21,
+        "SUBCATEGORY_ID": 81
+    },
+    {
+        "ID": 293,
+        "NAME": "Supermercado santo antonio",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 294,
+        "NAME": "big lar",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 22
+    },
+    {
+        "ID": 295,
+        "NAME": "shop time",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 22
+    },
+    {
+        "ID": 296,
+        "NAME": "papelaria primavera",
+        "CATEGORY_ID": 5,
+        "SUBCATEGORY_ID": 54
+    },
+    {
+        "ID": 297,
+        "NAME": "informatica rua havaina",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 92
+    },
+    {
+        "ID": 298,
+        "NAME": "m g caiado rocha",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 299,
+        "NAME": "panificadoura moreira",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 44
+    },
+    {
+        "ID": 300,
+        "NAME": "rheyla global",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 92
+    },
+    {
+        "ID": 301,
+        "NAME": "premicia tintas",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 66
+    },
+    {
+        "ID": 302,
+        "NAME": "ferragista marque",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 66
+    },
+    {
+        "ID": 303,
+        "NAME": "pedro correia ferragista",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 66
+    },
+    {
+        "ID": 304,
+        "NAME": "ferragista estrel",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 66
+    },
+    {
+        "ID": 306,
+        "NAME": "drograria angelica",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 76
+    },
+    {
+        "ID": 305,
+        "NAME": "buriti shopping",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 15
+    },
+    {
+        "ID": 307,
+        "NAME": "Emporio 87",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 308,
+        "NAME": "Mini box economic goiania",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 309,
+        "NAME": "QueroDobra",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 99
+    },
+    {
+        "ID": 310,
+        "NAME": "Ripister cabelereiro",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 311,
+        "NAME": "CityCar",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 312,
+        "NAME": "Ferragista j.e conexoes",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 22
+    },
+    {
+        "ID": 313,
+        "NAME": "previdencia",
+        "CATEGORY_ID": 10,
+        "SUBCATEGORY_ID": 38
+    },
+    {
+        "ID": 315,
+        "NAME": "diverworld",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 48
+    },
+    {
+        "ID": 316,
+        "NAME": "fujioka",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 92
+    },
+    {
+        "ID": 317,
+        "NAME": "space games",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 48
+    },
+    {
+        "ID": 318,
+        "NAME": "Center Carne",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 42
+    },
+    {
+        "ID": 319,
+        "NAME": "flavios",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 99
+    },
+    {
+        "ID": 320,
+        "NAME": "drograria primo",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 76
+    },
+    {
+        "ID": 321,
+        "NAME": "rei do frango",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 322,
+        "NAME": "Udemy curso",
+        "CATEGORY_ID": 5,
+        "SUBCATEGORY_ID": 19
+    },
+    {
+        "ID": 323,
+        "NAME": "Boticario",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 100
+    },
+    {
+        "ID": 324,
+        "NAME": "magazine luiza",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 92
+    },
+    {
+        "ID": 325,
+        "NAME": "Supermercado Caiado Rocha",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 327,
+        "NAME": "Posto 13",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 328,
+        "NAME": "Posto Machado",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 326,
+        "NAME": "Posto Sudoeste",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 329,
+        "NAME": "Probel",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 65
+    },
+    {
+        "ID": 330,
+        "NAME": "Receita Federal",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 331,
+        "NAME": "drograria santa marta",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 76
+    },
+    {
+        "ID": 332,
+        "NAME": "moveis outo preto",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 21
+    },
+    {
+        "ID": 333,
+        "NAME": "josiane perpetua ribei",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 334,
+        "NAME": "nutrichef cozinha",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 335,
+        "NAME": "paz",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 101
+    },
+    {
+        "ID": 336,
+        "NAME": "Skina do pão",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 91
+    },
+    {
+        "ID": 337,
+        "NAME": "Panificadora el shadai",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 44
+    },
+    {
+        "ID": 338,
+        "NAME": "Interdrogas",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 76
+    },
+    {
+        "ID": 339,
+        "NAME": "Machado alimentos",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 340,
+        "NAME": "AlivroseCia",
+        "CATEGORY_ID": 5,
+        "SUBCATEGORY_ID": 17
+    },
+    {
+        "ID": 341,
+        "NAME": "Posto Monaco ",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 342,
+        "NAME": "Prime Editorial",
+        "CATEGORY_ID": 5,
+        "SUBCATEGORY_ID": 17
+    },
+    {
+        "ID": 343,
+        "NAME": "Maia e bordas sa",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 344,
+        "NAME": "Drogaria Social",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 76
+    },
+    {
+        "ID": 345,
+        "NAME": "Supermercado Costa Santo Antonio",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 346,
+        "NAME": "Supercenter",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 347,
+        "NAME": "Posto Nova Geracao",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 348,
+        "NAME": "JE Aviamentos ",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 89
+    },
+    {
+        "ID": 349,
+        "NAME": "Supermercado maio",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 350,
+        "NAME": "Hiper festa",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 91
+    },
+    {
+        "ID": 351,
+        "NAME": "Mateus Reis Pereira",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 60
+    },
+    {
+        "ID": 352,
+        "NAME": "Visao maquinas",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 66
+    },
+    {
+        "ID": 353,
+        "NAME": "Ponto com maquinas",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 89
+    },
+    {
+        "ID": 354,
+        "NAME": "Riachuelo",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 99
+    },
+    {
+        "ID": 355,
+        "NAME": "luiza martins ",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 356,
+        "NAME": "Kabum",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 92
+    },
+    {
+        "ID": 357,
+        "NAME": "Posto Aguia Dourada",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 358,
+        "NAME": "EletroWash",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 60
+    },
+    {
+        "ID": 359,
+        "NAME": "Havaianas",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 99
+    },
+    {
+        "ID": 360,
+        "NAME": "Celeta Presente",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 48
+    },
+    {
+        "ID": 361,
+        "NAME": "Ferragista e Utilidade",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 66
+    },
+    {
+        "ID": 362,
+        "NAME": "Hutti Panificadora",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 44
+    },
+    {
+        "ID": 363,
+        "NAME": "Padrão Laboratorio",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 76
+    },
+    {
+        "ID": 364,
+        "NAME": "Uniodonto",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 24
+    },
+    {
+        "ID": 365,
+        "NAME": "Irmaos Moreira",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 366,
+        "NAME": "patricia soares",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 44
+    },
+    {
+        "ID": 367,
+        "NAME": "Camelodromo",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 92
+    },
+    {
+        "ID": 368,
+        "NAME": "Gearbest",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 92
+    },
+    {
+        "ID": 369,
+        "NAME": "pag*Redes",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 91
+    },
+    {
+        "ID": 370,
+        "NAME": "Supermercado Tatico",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 371,
+        "NAME": "Manos bateria",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 372,
+        "NAME": "New Store",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 67
+    },
+    {
+        "ID": 373,
+        "NAME": "QG Pasteis",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 374,
+        "NAME": "drograria monte cristo",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 76
+    },
+    {
+        "ID": 376,
+        "NAME": "Carteira",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 25
+    },
+    {
+        "ID": 377,
+        "NAME": "pag*Acessomais",
+        "CATEGORY_ID": 9,
+        "SUBCATEGORY_ID": 34
+    },
+    {
+        "ID": 378,
+        "NAME": "loja cortina",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 21
+    },
+    {
+        "ID": 379,
+        "NAME": "Supermercado balneario",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 380,
+        "NAME": "botiki",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 99
+    },
+    {
+        "ID": 383,
+        "NAME": "conveniencia geral",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 44
+    },
+    {
+        "ID": 381,
+        "NAME": "restaurante baia",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 382,
+        "NAME": "borracharial geral",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 384,
+        "NAME": "posto catolandia",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 385,
+        "NAME": "posto chaves",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 386,
+        "NAME": "pedagio",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 387,
+        "NAME": "Ace Latas",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 388,
+        "NAME": "carlos auto",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 389,
+        "NAME": "petshop",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 390,
+        "NAME": "estacionamento",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 15
+    },
+    {
+        "ID": 391,
+        "NAME": "Cartorio",
+        "CATEGORY_ID": 10,
+        "SUBCATEGORY_ID": 103
+    },
+    {
+        "ID": 392,
+        "NAME": "Brasil Musical",
+        "CATEGORY_ID": 5,
+        "SUBCATEGORY_ID": 19
+    },
+    {
+        "ID": 393,
+        "NAME": "Coyote representacao",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 394,
+        "NAME": "pao de goias",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 44
+    },
+    {
+        "ID": 395,
+        "NAME": "JN Latas e Acessorios ",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 396,
+        "NAME": "Adm combustiveis",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 397,
+        "NAME": "CEA GPA",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 48
+    },
+    {
+        "ID": 398,
+        "NAME": "Supermercado bugabo",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 399,
+        "NAME": "Pizzaria alto do vale",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 9
+    },
+    {
+        "ID": 400,
+        "NAME": "posto passeio das aguas",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 401,
+        "NAME": "Supermercado cerrado",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 402,
+        "NAME": "posto mangalo",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 403,
+        "NAME": "restaurante cid",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 404,
+        "NAME": "Supermercado popular",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 405,
+        "NAME": "nubank",
+        "CATEGORY_ID": 13,
+        "SUBCATEGORY_ID": 41
+    },
+    {
+        "ID": 406,
+        "NAME": "catho online",
+        "CATEGORY_ID": 13,
+        "SUBCATEGORY_ID": 39
+    },
+    {
+        "ID": 407,
+        "NAME": "ifood",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 408,
+        "NAME": "rapido federal",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 52
+    },
+    {
+        "ID": 409,
+        "NAME": "bom gourmet",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 410,
+        "NAME": "Linx",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 411,
+        "NAME": "TurboNet",
+        "CATEGORY_ID": 1,
+        "SUBCATEGORY_ID": 4
+    },
+    {
+        "ID": 412,
+        "NAME": "sinal transito",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 91
+    },
+    {
+        "ID": 413,
+        "NAME": "Park",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 91
+    },
+    {
+        "ID": 414,
+        "NAME": "Orquidias guararema",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 48
+    },
+    {
+        "ID": 416,
+        "NAME": "renilda d s tavares",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 417,
+        "NAME": "ScorpionsNet",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 418,
+        "NAME": "Davi emanual souza",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 97
+    },
+    {
+        "ID": 419,
+        "NAME": "Ricardo Norio ",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 420,
+        "NAME": "Daniel Mendes Varga",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 44
+    },
+    {
+        "ID": 415,
+        "NAME": "Drecia",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 100
+    },
+    {
+        "ID": 421,
+        "NAME": "h2j",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 60
+    },
+    {
+        "ID": 422,
+        "NAME": "gusto gel sorveteria",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 423,
+        "NAME": "Pichau",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 92
+    },
+    {
+        "ID": 425,
+        "NAME": "Frango Rei",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 426,
+        "NAME": "tesouro 0161",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 22
+    },
+    {
+        "ID": 288,
+        "NAME": "posto Petrobras ",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 427,
+        "NAME": "hbo digital",
+        "CATEGORY_ID": 15,
+        "SUBCATEGORY_ID": 50
+    },
+    {
+        "ID": 428,
+        "NAME": "inesferre",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 92
+    },
+    {
+        "ID": 429,
+        "NAME": "Bem me quer",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 65
+    },
+    {
+        "ID": 430,
+        "NAME": "Assai atacadista",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 431,
+        "NAME": "ingresso.com",
+        "CATEGORY_ID": 3,
+        "SUBCATEGORY_ID": 10
+    },
+    {
+        "ID": 433,
+        "NAME": "Lucianaaparecida",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 89
+    },
+    {
+        "ID": 434,
+        "NAME": "uniao calcados",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 99
+    },
+    {
+        "ID": 435,
+        "NAME": "Feira Morada Sol",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 43
+    },
+    {
+        "ID": 436,
+        "NAME": "San S Club",
+        "CATEGORY_ID": 21,
+        "SUBCATEGORY_ID": 77
+    },
+    {
+        "ID": 437,
+        "NAME": "Posto Baddock passeio",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 438,
+        "NAME": "marizemarcilio",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 44
+    },
+    {
+        "ID": 439,
+        "NAME": "pedro correia peres",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 99
+    },
+    {
+        "ID": 440,
+        "NAME": "vila caipira",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 43
+    },
+    {
+        "ID": 441,
+        "NAME": "Luanda",
+        "CATEGORY_ID": 19,
+        "SUBCATEGORY_ID": 70
+    },
+    {
+        "ID": 442,
+        "NAME": "impacto Ferragens",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 22
+    },
+    {
+        "ID": 443,
+        "NAME": "cliente",
+        "CATEGORY_ID": 19,
+        "SUBCATEGORY_ID": 72
+    },
+    {
+        "ID": 212,
+        "NAME": "Oficina Calibragem",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 444,
+        "NAME": "Sebba",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 66
+    },
+    {
+        "ID": 445,
+        "NAME": "eduardo linx",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 446,
+        "NAME": "Rainner linx",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 447,
+        "NAME": "Daniel linx",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 448,
+        "NAME": "DevFest",
+        "CATEGORY_ID": 5,
+        "SUBCATEGORY_ID": 19
+    },
+    {
+        "ID": 449,
+        "NAME": "donna bella panificadora",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 450,
+        "NAME": "Posto Tassara",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 451,
+        "NAME": "pisa pilao",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 452,
+        "NAME": "DevCerrado",
+        "CATEGORY_ID": 5,
+        "SUBCATEGORY_ID": 19
+    },
+    {
+        "ID": 453,
+        "NAME": "Axel Ataídes da Costa Miguez",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 454,
+        "NAME": "Trilha da Amazonia",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 455,
+        "NAME": "China in Box",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 456,
+        "NAME": "Posto Recreio Auto Posto II",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 457,
+        "NAME": "Cerrado Pedras",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 66
+    },
+    {
+        "ID": 458,
+        "NAME": "Matheus Cardoso Duarte Santos",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 459,
+        "NAME": "Continental Madeireira",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 66
+    },
+    {
+        "ID": 460,
+        "NAME": "Siedos",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 461,
+        "NAME": "peg pag wr",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 462,
+        "NAME": "Grill Suico Bar e Rest",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 463,
+        "NAME": "posto lider",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 464,
+        "NAME": "kalunga",
+        "CATEGORY_ID": 5,
+        "SUBCATEGORY_ID": 54
+    },
+    {
+        "ID": 465,
+        "NAME": "Panifimilia",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 91
+    },
+    {
+        "ID": 466,
+        "NAME": "PicPay",
+        "CATEGORY_ID": 13,
+        "SUBCATEGORY_ID": 40
+    },
+    {
+        "ID": 467,
+        "NAME": "katy daiane da costa",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 97
+    },
+    {
+        "ID": 468,
+        "NAME": "Posto Rodao",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 45
+    },
+    {
+        "ID": 469,
+        "NAME": "Consultorio",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 26
+    },
+    {
+        "ID": 471,
+        "NAME": "SBF netshoes",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 65
+    },
+    {
+        "ID": 472,
+        "NAME": "Atacadao das racoes",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 473,
+        "NAME": "drograria São paulo fi",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 76
+    },
+    {
+        "ID": 474,
+        "NAME": "Pessoa",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 475,
+        "NAME": "Hudson Marques",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 66
+    },
+    {
+        "ID": 476,
+        "NAME": "Netshoes",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 99
+    },
+    {
+        "ID": 477,
+        "NAME": "Mana Panificadora",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 478,
+        "NAME": "epilhas",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 92
+    },
+    {
+        "ID": 479,
+        "NAME": "paladins games store",
+        "CATEGORY_ID": 3,
+        "SUBCATEGORY_ID": 12
+    },
+    {
+        "ID": 480,
+        "NAME": "eduardo henrique pecla",
+        "CATEGORY_ID": 24,
+        "SUBCATEGORY_ID": 99
+    },
+    {
+        "ID": 481,
+        "NAME": "Evindence moveis",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 21
+    },
+    {
+        "ID": 482,
+        "NAME": "Supermercado smart Mega",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 483,
+        "NAME": "pagar.Me",
+        "CATEGORY_ID": 16,
+        "SUBCATEGORY_ID": 57
+    },
+    {
+        "ID": 484,
+        "NAME": "Washigton siedo",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 485,
+        "NAME": "Super Rezende",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 8
+    },
+    {
+        "ID": 486,
+        "NAME": "Conserto Sofa",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 66
+    },
+    {
+        "ID": 487,
+        "NAME": "CastGroup",
+        "CATEGORY_ID": 13,
+        "SUBCATEGORY_ID": 39
+    },
+    {
+        "ID": 488,
+        "NAME": "Restaurante trabalho",
+        "CATEGORY_ID": 2,
+        "SUBCATEGORY_ID": 93
+    },
+    {
+        "ID": 489,
+        "NAME": "INTER",
+        "CATEGORY_ID": 13,
+        "SUBCATEGORY_ID": 41
+    },
+    {
+        "ID": 490,
+        "NAME": "Via Varejao S.A",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 60
+    },
+    {
+        "ID": 491,
+        "NAME": "Paypal",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 492,
+        "NAME": "EletroLux",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 60
+    },
+    {
+        "ID": 494,
+        "NAME": "Maria silva borges",
+        "CATEGORY_ID": -1,
+        "SUBCATEGORY_ID": -1
+    },
+    {
+        "ID": 495,
+        "NAME": "dentista",
+        "CATEGORY_ID": 7,
+        "SUBCATEGORY_ID": 24
+    },
+    {
+        "ID": 496,
+        "NAME": "Naja acessorio",
+        "CATEGORY_ID": 4,
+        "SUBCATEGORY_ID": 13
+    },
+    {
+        "ID": 497,
+        "NAME": "Cameldromo",
+        "CATEGORY_ID": 6,
+        "SUBCATEGORY_ID": 22
+    },
+    {
+        "ID": 498,
+        "NAME": "Hostgator",
+        "CATEGORY_ID": 1,
+        "SUBCATEGORY_ID": 4
+    },
+    {
+        "ID": 499,
+        "NAME": "cadeiras",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 65
+    },
+    {
+        "ID": 500,
+        "NAME": "gabriel",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 97
+    },
+    {
+        "ID": 501,
+        "NAME": "paulo cesar",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 97
+    },
+    {
+        "ID": 502,
+        "NAME": "je conexoes",
+        "CATEGORY_ID": 18,
+        "SUBCATEGORY_ID": 66
+    }
+]

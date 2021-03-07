@@ -1,0 +1,548 @@
+[
+    {
+        "ID": 1,
+        "NAME": "Contas",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 5,
+                "NAME": "Aluguel"
+            },
+            {
+                "ID": 2,
+                "NAME": "Eletricidade"
+            },
+            {
+                "ID": 3,
+                "NAME": "Gás"
+            },
+            {
+                "ID": 4,
+                "NAME": "Internet"
+            },
+            {
+                "ID": 1,
+                "NAME": "Telefone"
+            },
+            {
+                "ID": 6,
+                "NAME": "TV a Cabo"
+            },
+            {
+                "ID": 7,
+                "NAME": "Água"
+            }
+        ]
+    },
+    {
+        "ID": 2,
+        "NAME": "Alimentação",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 42,
+                "NAME": "Açougue"
+            },
+            {
+                "ID": 43,
+                "NAME": "Feiras e alimentação"
+            },
+            {
+                "ID": 93,
+                "NAME": "Lanche trabalho"
+            },
+            {
+                "ID": 91,
+                "NAME": "Lanches"
+            },
+            {
+                "ID": 44,
+                "NAME": "Padaria"
+            },
+            {
+                "ID": 9,
+                "NAME": "Restaurante"
+            },
+            {
+                "ID": 8,
+                "NAME": "Supermercado"
+            }
+        ]
+    },
+    {
+        "ID": 3,
+        "NAME": "Lazer",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 11,
+                "NAME": "Aluguel de filmes"
+            },
+            {
+                "ID": 10,
+                "NAME": "Filmes/Cinemas"
+            },
+            {
+                "ID": 12,
+                "NAME": "Revistas"
+            }
+        ]
+    },
+    {
+        "ID": 4,
+        "NAME": "Automóvel",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 45,
+                "NAME": "Combustível"
+            },
+            {
+                "ID": 98,
+                "NAME": "Documentos"
+            },
+            {
+                "ID": 15,
+                "NAME": "Estacionamento"
+            },
+            {
+                "ID": 46,
+                "NAME": "Financiamento"
+            },
+            {
+                "ID": 14,
+                "NAME": "Gás"
+            },
+            {
+                "ID": 13,
+                "NAME": "Manutenção"
+            },
+            {
+                "ID": 96,
+                "NAME": "manutenção moto"
+            },
+            {
+                "ID": 16,
+                "NAME": "Registros"
+            },
+            {
+                "ID": 47,
+                "NAME": "Seguro"
+            },
+            {
+                "ID": 95,
+                "NAME": "Taxi/Uber"
+            }
+        ]
+    },
+    {
+        "ID": 5,
+        "NAME": "Educação",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 18,
+                "NAME": "Gorjetas"
+            },
+            {
+                "ID": 53,
+                "NAME": "Livro"
+            },
+            {
+                "ID": 17,
+                "NAME": "Livros"
+            },
+            {
+                "ID": 54,
+                "NAME": "Materiais Escol"
+            },
+            {
+                "ID": 55,
+                "NAME": "Mensalidade"
+            },
+            {
+                "ID": 19,
+                "NAME": "Outros"
+            }
+        ]
+    },
+    {
+        "ID": 6,
+        "NAME": "Manutenção da casa",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 92,
+                "NAME": "Eletronicos"
+            },
+            {
+                "ID": 21,
+                "NAME": "Mobiliário"
+            },
+            {
+                "ID": 22,
+                "NAME": "Outros"
+            },
+            {
+                "ID": 20,
+                "NAME": "Vestuário"
+            }
+        ]
+    },
+    {
+        "ID": 7,
+        "NAME": "Saúde",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 24,
+                "NAME": "Dentista"
+            },
+            {
+                "ID": 75,
+                "NAME": "Hospital"
+            },
+            {
+                "ID": 76,
+                "NAME": "Medicamento"
+            },
+            {
+                "ID": 26,
+                "NAME": "Médico"
+            },
+            {
+                "ID": 25,
+                "NAME": "Oculista"
+            },
+            {
+                "ID": 27,
+                "NAME": "Receitas médicas"
+            },
+            {
+                "ID": 23,
+                "NAME": "Saúde"
+            }
+        ]
+    },
+    {
+        "ID": 8,
+        "NAME": "Seguro",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 30,
+                "NAME": "Lar"
+            },
+            {
+                "ID": 31,
+                "NAME": "Saúde"
+            },
+            {
+                "ID": 28,
+                "NAME": "Transporte"
+            },
+            {
+                "ID": 29,
+                "NAME": "Vida"
+            }
+        ]
+    },
+    {
+        "ID": 9,
+        "NAME": "Férias",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 33,
+                "NAME": "Hotel"
+            },
+            {
+                "ID": 34,
+                "NAME": "Passeios turísticos"
+            },
+            {
+                "ID": 32,
+                "NAME": "Viagens"
+            }
+        ]
+    },
+    {
+        "ID": 10,
+        "NAME": "Impostos",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 103,
+                "NAME": "Cartorio"
+            },
+            {
+                "ID": 37,
+                "NAME": "Imposto da água"
+            },
+            {
+                "ID": 35,
+                "NAME": "Imposto de renda"
+            },
+            {
+                "ID": 36,
+                "NAME": "Imposto sobre imóveis"
+            },
+            {
+                "ID": 94,
+                "NAME": "IOF"
+            },
+            {
+                "ID": 38,
+                "NAME": "Outros"
+            }
+        ]
+    },
+    {
+        "ID": 13,
+        "NAME": "Receitas",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 41,
+                "NAME": "Rendimentos de investimentos"
+            },
+            {
+                "ID": 40,
+                "NAME": "Restituições/Reembolso"
+            },
+            {
+                "ID": 39,
+                "NAME": "Salário"
+            }
+        ]
+    },
+    {
+        "ID": 14,
+        "NAME": "Transações",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 88,
+                "NAME": "Deposito"
+            },
+            {
+                "ID": 86,
+                "NAME": "Dividendo"
+            },
+            {
+                "ID": 87,
+                "NAME": "Saque"
+            },
+            {
+                "ID": 85,
+                "NAME": "Tranferencia"
+            }
+        ]
+    },
+    {
+        "ID": 15,
+        "NAME": "Diversão",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 101,
+                "NAME": "Boa"
+            },
+            {
+                "ID": 48,
+                "NAME": "Diversos"
+            },
+            {
+                "ID": 49,
+                "NAME": "Evento"
+            },
+            {
+                "ID": 50,
+                "NAME": "Filme"
+            },
+            {
+                "ID": 51,
+                "NAME": "Livro Revista"
+            },
+            {
+                "ID": 52,
+                "NAME": "Passeio"
+            }
+        ]
+    },
+    {
+        "ID": 16,
+        "NAME": "Geral",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 102,
+                "NAME": "Animal"
+            },
+            {
+                "ID": 56,
+                "NAME": "Cuidados Pessoais"
+            },
+            {
+                "ID": 57,
+                "NAME": "Pessoal"
+            },
+            {
+                "ID": 104,
+                "NAME": "Validar"
+            }
+        ]
+    },
+    {
+        "ID": 17,
+        "NAME": "Investimento",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 58,
+                "NAME": "Aplicações"
+            },
+            {
+                "ID": 59,
+                "NAME": "Juros Recebidos"
+            }
+        ]
+    },
+    {
+        "ID": 18,
+        "NAME": "Moradia",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 60,
+                "NAME": "Eletrodoméstico"
+            },
+            {
+                "ID": 61,
+                "NAME": "Energia Elétric"
+            },
+            {
+                "ID": 62,
+                "NAME": "Financiamento"
+            },
+            {
+                "ID": 63,
+                "NAME": "Gás"
+            },
+            {
+                "ID": 64,
+                "NAME": "IPTU"
+            },
+            {
+                "ID": 65,
+                "NAME": "Mobília"
+            },
+            {
+                "ID": 97,
+                "NAME": "Paissagismo"
+            },
+            {
+                "ID": 66,
+                "NAME": "Reforma e Manut"
+            },
+            {
+                "ID": 67,
+                "NAME": "Telefone Celula"
+            },
+            {
+                "ID": 68,
+                "NAME": "Telefone Fixo"
+            },
+            {
+                "ID": 69,
+                "NAME": "Água e Esgoto"
+            }
+        ]
+    },
+    {
+        "ID": 19,
+        "NAME": "Outras Receitas",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 70,
+                "NAME": "Combustivel"
+            },
+            {
+                "ID": 71,
+                "NAME": "Empréstimo"
+            },
+            {
+                "ID": 72,
+                "NAME": "Mantenção pc"
+            },
+            {
+                "ID": 73,
+                "NAME": "Venda sitpass"
+            }
+        ]
+    },
+    {
+        "ID": 21,
+        "NAME": "Taxas",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 84,
+                "NAME": "Anuidade"
+            },
+            {
+                "ID": 83,
+                "NAME": "Balanco conta"
+            },
+            {
+                "ID": 77,
+                "NAME": "Cartão de crédito"
+            },
+            {
+                "ID": 78,
+                "NAME": "Deposito"
+            },
+            {
+                "ID": 90,
+                "NAME": "IOF"
+            },
+            {
+                "ID": 79,
+                "NAME": "Juros"
+            },
+            {
+                "ID": 80,
+                "NAME": "Multa"
+            },
+            {
+                "ID": 81,
+                "NAME": "Tarifas Bancári"
+            }
+        ]
+    },
+    {
+        "ID": 22,
+        "NAME": "Poupanca"
+    },
+    {
+        "ID": 23,
+        "NAME": "Transporte",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 82,
+                "NAME": "Público"
+            }
+        ]
+    },
+    {
+        "ID": 24,
+        "NAME": "Vestuário",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 89,
+                "NAME": "Aviamento"
+            },
+            {
+                "ID": 100,
+                "NAME": "Beleza"
+            },
+            {
+                "ID": 99,
+                "NAME": "Roupas acessorios"
+            }
+        ]
+    },
+    {
+        "ID": 25,
+        "NAME": "Despesa",
+        "SUB_CATEGORIES": [
+            {
+                "ID": 105,
+                "NAME": "PicPay"
+            }
+        ]
+    }
+]
